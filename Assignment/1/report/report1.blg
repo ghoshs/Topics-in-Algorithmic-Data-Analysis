@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/dev/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: report1.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: report1.bib
+I was expecting a `,' or a `}'---line 71 of file report1.bib
+ :   journal={URL http://colah.github.io/posts/2015-08-Understanding-LSTMs/}
+ :                                                                          .
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty year in olah2015understanding
+
+Done.
+You've used 14 entries,
+            4039 wiz_defined-function locations,
+            878 strings with 9990 characters,
+and the built_in function-call counts, 8245 in all, are:
+= -- 635
+> -- 215
+< -- 43
++ -- 114
+- -- 44
+* -- 378
+:= -- 1318
+add.period$ -- 28
+call.type$ -- 14
+change.case$ -- 14
+chr.to.int$ -- 102
+cite$ -- 15
+duplicate$ -- 646
+empty$ -- 713
+format.name$ -- 50
+if$ -- 1856
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 115
+newline$ -- 65
+num.names$ -- 14
+pop$ -- 294
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 635
+stack$ -- 0
+substring$ -- 258
+swap$ -- 444
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 14
+warning$ -- 1
+while$ -- 31
+width$ -- 16
+write$ -- 142
+(There was 1 error message)
